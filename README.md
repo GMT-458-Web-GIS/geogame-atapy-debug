@@ -1,4 +1,4 @@
-# Turkey Province Geo-Game
+# Guess the Turkish Province
 
 This is an interactive web-based geo-game inspired by Seterra, designed to help players learn and test their knowledge of Turkey's 81 provinces. Players are prompted to identify provinces on the map, with correct guesses highlighted in green and incorrect guesses in red. The game features randomized province selection each round and includes a scoring system. The game is built with HTML, CSS, JavaScript, and OpenLayers for map interaction.
 
