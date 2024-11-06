@@ -13,7 +13,7 @@ This is an interactive web-based geo-game inspired by Seterra, designed to help 
 
 ## Screenshots
 
-![Screenshot of the game in action](main/in_game_footage.png))
+![Screenshot of the game in action](images/in_game_footage.png))
 
 ## How to Play
 
