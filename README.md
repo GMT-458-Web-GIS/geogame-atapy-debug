@@ -29,3 +29,7 @@ This is an interactive web-based geo-game inspired by Seterra, designed to help 
 1. The past performance efforts shown by player and statistics are going to be implemented.
 2. A countdown algorithm for game will be constructed.
 3. When choice is wrong, the attributes such as knowledge about province would be shown.
+
+## Demo to View
+You can view the demo for initial experience.
+https://atapy-debug.github.io/geogame--/
