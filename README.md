@@ -13,7 +13,7 @@ This is an interactive web-based geo-game inspired by Seterra, designed to help 
 
 ## Screenshots
 
-(https://github.com/GMT-458-Web-GIS/geogame-atapy-debug/blob/main/in_game_footage.png))
+![Screenshot of the game in action](main/in_game_footage.png))
 
 ## How to Play
 
