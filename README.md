@@ -9,12 +9,11 @@ This is an interactive web-based geo-game inspired by Seterra, designed to help 
 - **Visual Feedback**: 
   - Correct selections are highlighted in green.
   - Incorrect selections show the chosen province in red and the correct answer in green.
-- **Consistent Map Colors**: Provinces maintain their initial color (blue) unless selected.
 - **Scoring and Restart Functionality**: Tracks player’s score and allows the game to restart at any time.
 
 ## Screenshots
 
-![Screenshot of the game in action](path/to/screenshot.png)
+(https://github.com/GMT-458-Web-GIS/geogame-atapy-debug/blob/main/in_game_footage.png))
 
 ## How to Play
 
