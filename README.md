@@ -24,8 +24,8 @@ This is an interactive web-based geo-game inspired by Seterra, designed to help 
 3. Proceed to the next question until all provinces are answered.
 4. Use the "Restart" button to reset the game and play again.
 
-## Installation
+## More to Come
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/turkey-province-geo-game.git
+1. The past performance efforts shown by player and statistics are going to be implemented.
+2. A countdown algorithm for game will be constructed.
+3. When choice is wrong, the attributes such as knowledge about province would be shown.
