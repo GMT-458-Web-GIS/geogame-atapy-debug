@@ -3,18 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geo-Game: Provinces of Turkey</title>
+    <title>Geo-Game: Provinces of Turkiye</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div id="gameContainer">
-        <h1>Guess the Province of Turkey</h1>
+        <h1>Guess the Province of Turkiye</h1>
         <div id="map" class="map"></div>
         <h2 id="provinceName">Province: </h2>
         <p id="resultMessage"></p>
         <p id="score">Score: 0</p>
+        <p id="timer">Time Left: 60s</p>
         <button id="restartButton">Restart Game</button>
     </div>
+
+    <div id="previousScoresContainer">
+        <h2>Previous Attempts</h2>
+        <div id="previousScores">No previous attempts yet.</div>
+    </div>
+
+    <div id="congratulationsModal">
+        <div id="congratulationsContent">
+            <h1>Congratulations!</h1>
+            <p>You have successfully completed the Geo-Game. Well done!</p>
+        </div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
     <script src="script.js"></script>
 </body>
