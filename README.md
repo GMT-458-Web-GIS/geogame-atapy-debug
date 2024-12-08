@@ -36,10 +36,10 @@ This is an interactive web-based geo-game inspired by Seterra, designed to help 
 
 2. Native JavaScript APIs
 
-sessionStorage: A useful library that handled the temporarily storage of the performance of the player.
-date: To observe and display the time elapsed during each round.
-DOM(Document Object Model) Manipulation APIs: Its purpose of usage was displaying the feedback messages.
-setInterval & clearInterval: Both used for functionality of the countdown.
+-  sessionStorage: A useful library that handled the temporarily storage of the performance of the player.
+-  date: To observe and display the time elapsed during each round.
+-  DOM(Document Object Model) Manipulation APIs: Its purpose of usage was displaying the feedback messages.
+-  setInterval & clearInterval: Both used for functionality of the countdown.
 
 3. GeoJSON
 
